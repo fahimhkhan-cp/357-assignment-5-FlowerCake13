@@ -1,0 +1,1 @@
+NOTE: we talked in lab and because i am now unable to connect to the unix servers, i did not need to complete a valgrind
